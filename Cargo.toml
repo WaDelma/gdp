@@ -1,0 +1,10 @@
+[package]
+name = "gdp"
+version = "0.1.0"
+edition = "2021"
+
+[dev-dependencies]
+jwt = "0.16.0"
+hmac = "0.12.1"
+sha2 = "0.10.6"
+serde_json = "1.0.91"
